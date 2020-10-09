@@ -1,0 +1,17 @@
+{
+  "name": "wenprise/wp-meta-filter",
+  "description": "Filter data by metadata in wordpress admin post/data list page",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "nette/utils": "^3.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wenprise\\": "src/"
+    },
+    "files": [
+    ]
+  }
+}
