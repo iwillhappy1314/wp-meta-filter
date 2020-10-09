@@ -1,11 +1,10 @@
 <?php
 /*
 Plugin Name: WP Meta Filter
-Description: Export, push, and pull to migrate your WordPress databases.
-Author: Sean Lang
-Version: 1.5
-Author URI: http://slang.cx
-GitHub Plugin URI: wp-sync-db/wp-sync-db
+Description: Filter data by metadata in wordpress admin post/data list page.
+Author: iwillhappy1314
+Version: 0.0.1
+Author URI: https://wpzhiku.com
 Network: True
 */
 
