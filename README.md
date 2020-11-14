@@ -1,9 +1,15 @@
 # wp-meta-filter
 Filter data by metadata in wordpress admin post/data list page
 
+## install
+
+```bash
+composer require wenprise/wp-meta-filter
+```
+
 ## usage
 
-````php
+```php
 $deals = new Wenprise\MetaFilter\PostFilter();
 
 $deals->set_post_type('client')
